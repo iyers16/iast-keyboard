@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iast-keyboard/static/css/main.c34c5a78.css",
+    "main.js": "/iast-keyboard/static/js/main.981ada68.js",
+    "static/js/453.381a161c.chunk.js": "/iast-keyboard/static/js/453.381a161c.chunk.js",
+    "index.html": "/iast-keyboard/index.html",
+    "main.c34c5a78.css.map": "/iast-keyboard/static/css/main.c34c5a78.css.map",
+    "main.981ada68.js.map": "/iast-keyboard/static/js/main.981ada68.js.map",
+    "453.381a161c.chunk.js.map": "/iast-keyboard/static/js/453.381a161c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34c5a78.css",
+    "static/js/main.981ada68.js"
+  ]
+}
